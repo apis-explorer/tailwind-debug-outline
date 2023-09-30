@@ -1,0 +1,23 @@
+{
+  "name": "tailwind-debug-outline",
+  "version": "1.0.0",
+  "description": "A Tailwind CSS plugin to add dashed outline rectangles to HTML elements or child elements.",
+  "main": "index.js",
+  "repository": "git@github.com:apis-explorer/tailwind-debug-outline.git",
+  "author": {
+    "name": "Carlos Guedes",
+    "email": "cguedes@gmail.com",
+    "url": "https://cguedes.net"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apis-explorer/tailwind-debug-outline/issues"
+  },
+  "keywords": ["tailwindcss", "tailwind", "plugin", "debug", "outline"],
+  "peerDependencies": {
+    "tailwindcss": ">=2.0.0 || >=3.0.0"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.0.24"
+  }
+}
